@@ -1,0 +1,27 @@
+Nom du job :
+jCatchNullPointerException
+
+
+Liste des produits :
+TEC-PH-5816;Samsung Convoy 3;53;66
+FUR-CH-5379;Novimex Executive Leather Armchair. Black;219;274
+TEC-PH-5356;Nokia Smart Phone. with Caller ID;204;255
+TEC-PH-5267;Motorola Smart Phone. Cordless;437;546
+TEC-CO-6011;Sharp Wireless Fax. High-Speed;184;230
+TEC-PH-5842;Samsung Smart Phone. with Caller ID;203;254
+FUR-CH-5378;Novimex Executive Leather Armchair. Adjustable;110;138
+;Novimex Executive Leather Armchair. Adjustable;110;
+
+
+Nom des colonnes : 
+CD_PRODUIT 	String
+NOM_PRODUIT	String
+PRIX_ACHAT	Int
+PRIX_VENTE	Int
+
+
+NEW_PV : 
+Relational.ISNULL(row1.PRIX_VENTE_PRODUIT)?100:row1.PRIX_VENTE_PRODUIT+100 
+
+NB_CARACT_PROD
+Relational.ISNULL(row1.CD_PRODUIT)?0:row1.CD_PRODUIT.length() 

@@ -1,0 +1,25 @@
+CD_SOUS_CATEGORIE|LB_SOUS_CATEGORIE|CD_CATEGORIE
+CS001|Loyer|C001
+CS002|Énergie (Électricité & Gaz)|C001
+CS003|Eau|C001
+CS004|Assurance Maison|C001
+CS005|Assurance Voiture|C001
+CS006|Frais Bancaire|C001
+CS007|Abonnement Transport|C001
+CS008|Abonnement Logiciel|C001
+CS009|Abonnement Télécommunications|C001
+CS010|Autres Abonnements|C001
+CS011|Impôts et Taxes|C001
+CS012|Remboursements de Dettes|C002
+CS013|Alimentation|C002
+CS014|Coiffeur|C002
+CS015|Soins et Hygiène|C002
+CS016|Loisirs|C002
+CS017|Carburant|C002
+CS018|Santé (Pharmacie & Hôpital)|C002
+CS019|Garderie des Enfants|C002
+CS020|Equipemement Maison|C003
+CS021|Voyages & Autres|C003
+CS022|Vêtements & Autres|C003
+CS023|Cadeaux d'Anniversaire|C003
+CS024|Rentrée Scolaire|C003

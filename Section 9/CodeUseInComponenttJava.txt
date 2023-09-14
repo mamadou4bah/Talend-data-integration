@@ -1,0 +1,10 @@
+System.out.println("Durée totale : " + 
+((Long)globalMap.get("tChronometerStop_1_DURATION")) + " milliseconds");
+
+System.out.println("Heure de début d'exécution : " + 
+new java.util.Date(((Long)globalMap.get("tChronometerStart_1_STARTTIME")))
+);
+
+System.out.println("Heure de fin d'exécution : " + 
+new java.util.Date(((Long)globalMap.get("tChronometerStop_1_STOPTIME")))
+);

@@ -1,0 +1,11 @@
+serverName|localhost
+database|FORMATION_TALEND
+port|5433
+schema|I_OPE
+utilisateur|postgres
+password|votreMotDePasse
+additionalParam|
+formationDirectory|C:/Formation Talend/
+section2Directory|Section 2/
+section3Directory|Section 3/
+
